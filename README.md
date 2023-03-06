@@ -1,2 +1,2 @@
 # Projetos-Phyton
-Repository of projects made in python utilizando conceitos de Data Science.
+Repositório de projetos feitos em Python utilizando conceitos de Data Science.
