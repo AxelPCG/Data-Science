@@ -11,4 +11,9 @@ Este notebook explora a criação de gráficos usando a biblioteca Matplotlib em
 
 - **Trabalhando com imagens**: O notebook também inclui exemplos de como salvar gráficos como imagens e como combinar várias imagens em uma única imagem.
 
-Este notebook é uma introdução abrangente à criação de gráficos com Matplotlib, abordando desde conceitos básicos até técnicas mais avançadas de visualização de dados.
+
+## Instruções de Uso
+
+- Este notebook é uma introdução abrangente à criação de gráficos com Matplotlib, abordando desde conceitos básicos até técnicas mais avançadas de visualização de dados.
+- Para explorar cada notebook, basta clicar no link correspondente no repositório GitHub. Esses notebooks são essenciais para a compreensão dos tópicos avançados de visualização de dados utilizando o Matplotlib.
+- É recomendável ter conhecimento básico de Python e das bibliotecas pandas, numpy, e matplotlib para acompanhar os exemplos e exercícios.
