@@ -25,7 +25,7 @@ Este repositório contém uma coleção de projetos e materiais didáticos desen
    - Módulo dedicado à Regressão Linear, uma das técnicas mais simples e poderosas em Machine Learning. O diretório inclui a teoria por trás da regressão, bem como exemplos práticos de implementação em Python, com foco na análise e interpretação dos coeficientes.
 
 8. **8 - Análise de Experimentos**
-   - Este diretório explora o design e análise de experimentos, abordando conceitos como randomização, blocos, e análises ANOVA. Também inclui exemplos práticos de como realizar e interpretar experimentos usando Python.
+   - Este módulo aborda conceitos fundamentais e práticos relacionados ao planejamento e à análise de experimentos, uma área essencial na estatística aplicada e em projetos de Data Science. O conteúdo é especialmente útil para quem busca entender como estruturar experimentos de forma rigorosa, garantindo a validade dos resultados e a interpretação correta das análises.
 
 ## Como Usar
 Cada diretório contém notebooks que podem ser executados individualmente para aprender e aplicar os conceitos abordados. É recomendável seguir a ordem dos módulos, especialmente para quem está começando na área de Data Science.
