@@ -30,5 +30,3 @@
 Este módulo é composto por um Jupyter Notebook (`Planejamento_experimentos_aula.ipynb`) que pode ser executado para aprender e aplicar os conceitos de design e análise de experimentos. O notebook inclui tanto a teoria quanto exemplos práticos, tornando-o ideal para quem deseja uma abordagem prática e aplicada ao tema.
 
 ---
-
-Este módulo serve como uma introdução abrangente ao planejamento de experimentos, oferecendo uma combinação de teoria e prática que pode ser aplicada em projetos reais de Data Science e Estatística.
